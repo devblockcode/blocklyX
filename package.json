@@ -1,21 +1,18 @@
 {
-  "name": "blockly",
+  "name": "blocklyX",
   "version": "11.1.0",
-  "description": "Blockly is a library for building visual programming editors.",
+  "description": "BlocklyX is an enhanced version of Google's Blockly.",
   "keywords": [
     "blockly"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/blockly.git"
+    "url": "git+https://github.com/devblockcode/blocklyX.git"
   },
   "bugs": {
-    "url": "https://github.com/google/blockly/issues"
+    "url": "https://github.com/devblockcode/blocklyX/issues"
   },
-  "homepage": "https://developers.google.com/blockly/",
-  "author": {
-    "name": "Neil Fraser"
-  },
+  "homepage": "https://github.com/devblockcode/blocklyX",
   "scripts": {
     "build": "gulp build",
     "build-debug": "gulp build --verbose --debug",
